@@ -41,54 +41,56 @@
             About Me
           </h2>
           <p class="text-lg text-gray-600 max-w-2xl mx-auto">
-            Passionate about creating intelligent solutions that transform how businesses operate
+            I'm a code-slinging, AI-wrangling, coffee-fueled architect who turns "that's impossible" into "that's incredible!" ☕✨
           </p>
         </div>
 
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           <div>
             <h3 class="text-2xl font-semibold text-gray-900 mb-6">
-              Driving Innovation Through Technology
+              🚀 The Guy Who Makes Computers Do Cool Stuff
             </h3>
             <p class="text-gray-600 mb-6">
-              As a software developer and architect with over a decade of experience, I specialize in designing and implementing 
-              cutting-edge AI solutions that solve complex business challenges. My expertise spans the full software development 
-              lifecycle, from initial concept to production deployment.
+              Hey there! I'm Bo, and I've been having passionate love affairs with code for over a decade (don't worry, my wife knows 😄). 
+              I'm the type of guy who gets genuinely excited about turning messy business problems into elegant AI solutions. 
+              Think of me as a digital translator who speaks fluent "business-ese" and "tech-ese" – I bridge the gap between 
+              "we need something amazing" and "here's your something amazing, with extra sprinkles on top!"
             </p>
             <p class="text-gray-600 mb-6">
-              I'm passionate about leveraging modern technologies to create scalable, maintainable solutions that drive real 
-              business value. Whether it's architecting cloud-native applications, implementing machine learning models, or 
-              leading development teams, I bring a strategic approach to every project.
+              When I'm not busy teaching machines to be smarter than they have any right to be, you'll find me architecting 
+              cloud-native applications that scale like they're on rocket fuel 🚀. I've got a knack for taking complex puzzles 
+              and making them look so simple that people wonder why anyone thought they were hard in the first place. 
+              My secret sauce? A strategic brain, a dash of humor, and an unhealthy obsession with clean code.
             </p>
             <div class="flex flex-wrap gap-2">
-              <span class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-sm font-medium">AI & Machine Learning</span>
-              <span class="bg-green-100 text-green-800 px-3 py-1 rounded-full text-sm font-medium">Cloud Architecture</span>
-              <span class="bg-purple-100 text-purple-800 px-3 py-1 rounded-full text-sm font-medium">Solution Design</span>
-              <span class="bg-orange-100 text-orange-800 px-3 py-1 rounded-full text-sm font-medium">Team Leadership</span>
+              <span class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-sm font-medium">🤖 AI Whisperer</span>
+              <span class="bg-green-100 text-green-800 px-3 py-1 rounded-full text-sm font-medium">☁️ Cloud Architect</span>
+              <span class="bg-purple-100 text-purple-800 px-3 py-1 rounded-full text-sm font-medium">🎯 Solution Magician</span>
+              <span class="bg-orange-100 text-orange-800 px-3 py-1 rounded-full text-sm font-medium">👥 Team Cheerleader</span>
             </div>
           </div>
           <div class="bg-gray-50 rounded-lg p-8">
-            <h4 class="text-lg font-semibold text-gray-900 mb-4">Core Expertise</h4>
+            <h4 class="text-lg font-semibold text-gray-900 mb-4">My Superpowers 🦸‍♂️</h4>
             <ul class="space-y-3">
               <li class="flex items-center">
                 <Icon name="heroicons:check-circle" class="w-5 h-5 text-green-500 mr-3" />
-                <span class="text-gray-700">Modern AI & Machine Learning Solutions</span>
+                <span class="text-gray-700">Making AI models behave (mostly) 🧠</span>
               </li>
               <li class="flex items-center">
                 <Icon name="heroicons:check-circle" class="w-5 h-5 text-green-500 mr-3" />
-                <span class="text-gray-700">Enterprise Software Architecture</span>
+                <span class="text-gray-700">Building software that doesn't fall over 🏗️</span>
               </li>
               <li class="flex items-center">
                 <Icon name="heroicons:check-circle" class="w-5 h-5 text-green-500 mr-3" />
-                <span class="text-gray-700">Cloud-Native Application Design</span>
+                <span class="text-gray-700">Cloud wizardry & digital alchemy ⚡</span>
               </li>
               <li class="flex items-center">
                 <Icon name="heroicons:check-circle" class="w-5 h-5 text-green-500 mr-3" />
-                <span class="text-gray-700">Cross-Functional Team Leadership</span>
+                <span class="text-gray-700">Herding cats (aka leading dev teams) 🐱</span>
               </li>
               <li class="flex items-center">
                 <Icon name="heroicons:check-circle" class="w-5 h-5 text-green-500 mr-3" />
-                <span class="text-gray-700">Strategic Technology Planning</span>
+                <span class="text-gray-700">Turning caffeine into code since 2013 ☕</span>
               </li>
             </ul>
           </div>
