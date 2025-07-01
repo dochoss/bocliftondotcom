@@ -41,38 +41,39 @@
             About Me
           </h2>
           <p class="text-lg text-gray-600 max-w-2xl mx-auto">
-            Passionate about creating intelligent solutions that transform how businesses operate
+            Creative problem-solver passionate about transforming complex challenges into innovative AI solutions ✨
           </p>
         </div>
 
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           <div>
             <h3 class="text-2xl font-semibold text-gray-900 mb-6">
-              Driving Innovation Through Technology
+              Turning Ideas Into Intelligent Solutions
             </h3>
             <p class="text-gray-600 mb-6">
-              As a software developer and architect with over a decade of experience, I specialize in designing and implementing 
-              cutting-edge AI solutions that solve complex business challenges. My expertise spans the full software development 
-              lifecycle, from initial concept to production deployment.
+              With over a decade of experience in software development and AI solutions, I bring both technical expertise 
+              and creative problem-solving to every project. I specialize in translating complex business requirements 
+              into elegant, scalable solutions that drive real value. Think of me as the bridge between "what we need" 
+              and "here's how we make it happen" – with a focus on innovation and results.
             </p>
             <p class="text-gray-600 mb-6">
-              I'm passionate about leveraging modern technologies to create scalable, maintainable solutions that drive real 
-              business value. Whether it's architecting cloud-native applications, implementing machine learning models, or 
-              leading development teams, I bring a strategic approach to every project.
+              My passion lies in architecting intelligent systems that not only solve today's challenges but anticipate 
+              tomorrow's opportunities. From designing cloud-native applications to implementing cutting-edge AI models, 
+              I combine strategic thinking with hands-on technical leadership to deliver solutions that make a difference.
             </p>
             <div class="flex flex-wrap gap-2">
-              <span class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-sm font-medium">AI & Machine Learning</span>
-              <span class="bg-green-100 text-green-800 px-3 py-1 rounded-full text-sm font-medium">Cloud Architecture</span>
+              <span class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-sm font-medium">🤖 AI & Machine Learning</span>
+              <span class="bg-green-100 text-green-800 px-3 py-1 rounded-full text-sm font-medium">☁️ Cloud Architecture</span>
               <span class="bg-purple-100 text-purple-800 px-3 py-1 rounded-full text-sm font-medium">Solution Design</span>
               <span class="bg-orange-100 text-orange-800 px-3 py-1 rounded-full text-sm font-medium">Team Leadership</span>
             </div>
           </div>
           <div class="bg-gray-50 rounded-lg p-8">
-            <h4 class="text-lg font-semibold text-gray-900 mb-4">Core Expertise</h4>
+            <h4 class="text-lg font-semibold text-gray-900 mb-4">Core Expertise 🚀</h4>
             <ul class="space-y-3">
               <li class="flex items-center">
                 <Icon name="heroicons:check-circle" class="w-5 h-5 text-green-500 mr-3" />
-                <span class="text-gray-700">Modern AI & Machine Learning Solutions</span>
+                <span class="text-gray-700">AI & Machine Learning Solutions</span>
               </li>
               <li class="flex items-center">
                 <Icon name="heroicons:check-circle" class="w-5 h-5 text-green-500 mr-3" />
